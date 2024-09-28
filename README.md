@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring boot, Spring Mvc, React.js, Node.js, Django**
 
-- 👨‍💻 All of my projects are available at [https://parulgoyal.netlify.app](https://parulgoyal.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://parulgoyal.netlify.app)
 
 - 💬 Ask me about **Java, Spring boot, Html, Css, Javascript, Expressjs, Node.js, Mongodb, MySQl**
 
