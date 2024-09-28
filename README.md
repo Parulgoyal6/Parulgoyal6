@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="1000" height="300" src="https://i.pinimg.com/originals/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg">
 
 <h1 align="center">Hi 👋, I'm Parul Goyal</h1>
-<h3 align="center">A passionate f>A Software developer, Motivate and enthusiast towards codingrontend developer from India</h3>
+<h3 align="center">A Software developer, Motivate and enthusiast towards codingrontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" height="300" src="https://media2.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=6c09b952prineqjy2kbl0pj778e6yllw7abz7xs01kvsx3v3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parulgoyal6&label=Profile%20views&color=0e75b6&style=flat" alt="parulgoyal6" /> </p>
