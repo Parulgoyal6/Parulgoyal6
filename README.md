@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="1000" height="300" src="https://i.pinimg.com/originals/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg">
+<img align="right" alt="coding" width="1000" height="300" src="[https://i.pinimg.com/originals/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg](https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif)">
 
 <h1 align="center">Hi 👋, I'm Parul Goyal</h1>
 <h3 align="center">A Software developer, Motivate and enthusiast towards codingrontend developer from India</h3>
