@@ -1,4 +1,3 @@
-<img align="right" alt="coding" width="1000" height="400" src="https://media.tenor.com/H-t9vVp0XUsAAAAM/cartoon-workhard.gif">
 
 <h1 align="center">Hi 👋, I'm Parul Goyal</h1>
 <h3 align="center">A Software developer, Motivate and enthusiast towards coding </h3>
