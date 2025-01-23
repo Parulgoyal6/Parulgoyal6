@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="300" height="300" src="https://media2.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=6c09b952prineqjy2kbl0pj778e6yllw7abz7xs01kvsx3v3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parulgoyal6&label=Profile%20views&color=0e75b6&style=flat" alt="parulgoyal6" /> </p>
 
-- 🌱 I’m currently learning **Spring boot, Spring Mvc, React.js, Node.js**
+- 🌱 I’m currently learning **Spring boot, Spring Mvc, Flutter**
 
 - 💬 Ask me about **Java, Spring boot, Html, Css, Javascript, Expressjs, Node.js, Mongodb, MySQl**
 
